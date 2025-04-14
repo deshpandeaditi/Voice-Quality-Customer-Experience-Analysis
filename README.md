@@ -80,7 +80,6 @@ The interactive Power BI file (`VoiceQualityCustomerExperience.pbix`) includes:
 - **SQL** – Data extraction and cleaning (`VoiceQuality_SqlQueries.sql`)
 - **Power BI** – Interactive visual dashboard
 - **Excel** – Data inspection and validation
-- **Python (optional)** – For statistical hypothesis testing
 
 
 
